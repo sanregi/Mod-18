@@ -8,7 +8,7 @@ Neste exercício vamos trabalhar com a base "Heart Disease Data Set" disponível
 Temos 303 indivíduos e vamos utilizar 13 variáveis disponíveis para prever a presença de doença cardíaca.
 
 **Projeto 18**
-   Mod 17 - Regressão Logística I
+   Mod 18 - Regressão Logística I
 
    🐍 Python | Pandas | Seaborn | Numpy | Matplotlib | 
 
